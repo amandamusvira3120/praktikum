@@ -12,6 +12,6 @@
     Alamat: <input type="text" name="alamat"/><br/>
     <input type="submit" value="Kirim"/>
     </form>
-
+    
 </body>
 </html>
